@@ -116,7 +116,7 @@ WSGI_APPLICATION = 'djoserauthapi.wsgi.application'
 #         'HOST': 'localhost'
 #     }
 # }
-
+SUPABASE_DB_URL = os.environ.get("SUPABASE_DB_URL")
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
