@@ -1,6 +1,9 @@
 # build_files.sh
 # pip install --upgrade pip
-source env/bin/activate
+pip install virtualenv
+pip virtualenv venv
+
+source venv/bin/activate
 pip install -r requirements.txt
 
 # make migrations
