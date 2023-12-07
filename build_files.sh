@@ -2,7 +2,7 @@
 # pip install --upgrade pip
 pip install virtualenv
 pip virtualenv venv
-apt-get install python-cupshelpers
+
 
 source venv/bin/activate
 pip install -r requirements.txt
