@@ -4,7 +4,7 @@ atomicwrites==1.4.1
 attrs==23.1.0
 bcrypt==3.2.0
 blinker==1.4
-Brlapi==0.7
+
 certifi==2023.5.7
 cffi==1.15.1
 chardet==3.0.4
@@ -20,7 +20,7 @@ defusedxml==0.7.1
 distlib==0.3.6
 distro==1.7.0
 distro-info==1.1+ubuntu0.1
-django==4.2.7
+Django==4.2.7
 django-appconf==1.0.6
 django-cors-headers==3.14.0
 django-dotenv==1.4.2
