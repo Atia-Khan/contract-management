@@ -10,7 +10,7 @@ chardet
 charset-normalizer
 click
 colorama
-command-not-found
+
 cryptography
 cupshelpers
 dbus-python
