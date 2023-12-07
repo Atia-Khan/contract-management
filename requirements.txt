@@ -1,4 +1,4 @@
-apturl
+
 asgiref==3.7.2
 atomicwrites==1.4.1
 attrs==23.1.0
