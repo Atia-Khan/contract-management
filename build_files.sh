@@ -2,7 +2,7 @@
 # pip install --upgrade pip
 pip install virtualenv
 pip virtualenv venv
-
+apt-get install gettext
 
 source venv/bin/activate
 pip install -r requirements.txt

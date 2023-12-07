@@ -12,7 +12,8 @@ click
 colorama
 
 cryptography
-
+setuptools==57.5.0
+wheel==0.36.2
 
 defer
 defusedxml
